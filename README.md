@@ -35,8 +35,8 @@ I am a passionate developer from **Souk-Ahras, Algeria** dedicated to building i
       <br/>React
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
-      <br/>Vite
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      <br/>Flutter
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
@@ -51,8 +51,8 @@ I am a passionate developer from **Souk-Ahras, Algeria** dedicated to building i
       <br/>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="48" height="48" alt="Tauri" />
-      <br/>Tauri
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+      <br/>Rust
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
@@ -69,20 +69,20 @@ Here are some of the key development projects that highlight my background in fu
 
 ### 🤖 OS AI Agent
 > A professional AI Agent that helps users manage their operating systems (Windows, Linux, macOS). Integrates debloating tools, onboarding application installers, smart web search, and auto-troubleshooting.
-- **Stack:** React, Vite, Node.js, OpenRouter, Google AI, Tauri, SQL
+- **Stack:** React, Node.js, OpenRouter, Google AI, Rust, SQL
 - [View Code/Website](https://www.okba-office.online)
 
 ### 🗓️ SER-2026 Seminar
 > A modern landing page and administration platform featuring rich animations, video integration, modern transitions, interactive maps, and application forms.
-- **Stack:** React, Vite, JS, SQL
+- **Stack:** React, JS, SQL
 
 ### 🎮 Educational Games Platform
 > Gamifies learning journeys by dynamically translating educational curricula into competitive games using generative AI.
-- **Stack:** React, Vite, Node.js, Google AI, OpenRouter, SQL
+- **Stack:** React, Node.js, Google AI, OpenRouter, SQL
 
 ### 👕 AI-Powered Clothing Try-On
 > A mobile e-commerce platform implementing real-time virtual fitting and AI clothing try-on for an immersive retail experience.
-- **Stack:** React, Vite, Capacitor, Node.js, Google AI, SQL
+- **Stack:** React, Capacitor, Node.js, Google AI, SQL
 
 ### 🔄 Smart Queue Management
 > Cross-platform queue system offering real-time status tracking, analytical insights, and operational management.
@@ -90,7 +90,7 @@ Here are some of the key development projects that highlight my background in fu
 
 ### 📂 Agentic Document Processing
 > An automated platform designed to extract, route, and execute operations on documents end-to-end.
-- **Stack:** React, Vite, Tauri, Capacitor, Node.js, Google AI, SQL
+- **Stack:** React, Rust, Capacitor, Node.js, Google AI, SQL
 
 ---
 
@@ -110,7 +110,7 @@ Here are some of the key development projects that highlight my background in fu
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okba-boubakeur&theme=dark&background=090d16&fire=22c55e&ring=22c55e&currStreakNum=22c55e&sideNums=e2e8f0&sideLabels=94a3b8&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=okba-boubakeur&theme=dark&background=090d16&fire=22c55e&ring=22c55e&currStreakNum=22c55e&sideNums=e2e8f0&sideLabels=94a3b8&hide_border=true" alt="GitHub Streak" width="80%" />
 </div>
 
 ---
