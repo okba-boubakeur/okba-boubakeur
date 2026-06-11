@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer | Custom AI Agent & Automation Builder | Open Source Enthusiast</strong>
+  <strong>Full-Stack Developer | Open Source Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ---
 
 ## 👨‍💻 Profile Overview
-I am a passionate developer from **Souk-Ahras, Algeria** dedicated to building intelligent applications, custom AI agents, and workflow automations. I focus on developing clean, modern, and high-performance applications that streamline operations and solve real-world problems.
+I am a passionate developer dedicated to building intelligent applications, custom AI agents, and workflow automations. I focus on developing clean, modern, and high-performance applications that streamline operations and solve real-world problems.
 
 *   🔭 **Current Focus:** Creating state-of-the-art AI-driven platforms, modern web design systems, and cross-platform desktop/mobile applications.
 *   🌱 **Tech Philosophy:** Combining robust backend architectures with beautiful, reactive user interfaces to deliver premium experiences.
