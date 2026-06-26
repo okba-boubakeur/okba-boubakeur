@@ -72,7 +72,7 @@ Here are some of the key development projects that highlight my background in fu
 - **Stack:** React, Node.js, OpenRouter, Google AI, Rust, SQL
 - [View Code](https://github.com/okba-boubakeur/TINKER)
 
-### 🎮 Ulum Notes
+### 📝 Ulum Notes
 > An open-source AI notes app for Windows and Android. Record lectures (2h+), Write in the Built-in text editor, and get structured AI summaries powered by Google Gemini or OpenRouter.
 - **Stack:** React 18, Tauri v2, TypeScript, Capacitor (Android), Tailwind CSS
 - [View Code](https://github.com/okba-boubakeur/Ulum-Notes#-android-build-guide)
