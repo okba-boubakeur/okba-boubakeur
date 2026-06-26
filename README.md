@@ -67,10 +67,15 @@ I am a passionate developer dedicated to building intelligent applications, cust
 
 Here are some of the key development projects that highlight my background in full-stack engineering and intelligent application development:
 
-### 🤖 OS AI Agent
+### 🤖 TINKER
 > A professional AI Agent that helps users manage their operating systems (Windows, Linux, macOS). Integrates debloating tools, onboarding application installers, smart web search, and auto-troubleshooting.
 - **Stack:** React, Node.js, OpenRouter, Google AI, Rust, SQL
-- [View Code/Website](https://www.okba-office.online)
+- [View Code](https://github.com/okba-boubakeur/TINKER)
+
+### 🎮 Ulum Notes
+> An open-source AI notes app for Windows and Android. Record lectures (2h+), Write in the Built-in text editor, and get structured AI summaries powered by Google Gemini or OpenRouter.
+- **Stack:** React 18, Tauri v2, TypeScript, Capacitor (Android), Tailwind CSS
+- [View Code](https://github.com/okba-boubakeur/Ulum-Notes#-android-build-guide)
 
 ### 🗓️ SER-2026 Seminar
 > A modern landing page and administration platform featuring rich animations, video integration, modern transitions, interactive maps, and application forms.
